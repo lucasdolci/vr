@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.5" start="node1" apprev="15998">
+  <panorama id="node1" hideabout="1">
+    <input levelingroll="0" tile3url="./pano1_3.jpg" prev2url="./pano1_preview_2.jpg" tile2url="./pano1_2.jpg" prev4url="./pano1_preview_4.jpg" prev3url="./pano1_preview_3.jpg" tile4url="./pano1_4.jpg" tile0url="./pano1_0.jpg" levelingpitch="0" tilesize="1500" tilescale="1.006667" tile1url="./pano1_1.jpg" tile5url="./pano1_5.jpg" prev1url="./pano1_preview_1.jpg" prev5url="./pano1_preview_5.jpg" prev0url="./pano1_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start tilt="0" pan="96.83" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fov="5"/>
+      <max tilt="90" scaletofit="1" pan="360" fov="120" fovfisheye="360" fovstereographic="270"/>
+    </view>
+    <userdata source="" comment="" title="" description="" info="" tags="Pano2VR5" latitude="" datetime="" longitude="" copyright="" author="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" textalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" background="1" border="1" borderradius="1" backgroundcolor="0xffffff" width="180" enabled="1" borderalpha="1" bordercolor="0x000000"/>
+      <polystyle mode="0" backgroundalpha="0.2509803921568627" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot url="pano2.xml" id="Point01" title="Panorama 2" description="" tilt="0.85" target="_blank" pan="99.33" skinid="ht_url"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" zoomspeed="2" type="crossdissolve" zoomfov="20" zoomoutpause="1" zoomout="0" zoomin="0" enabled="0" blendcolor="0x000000" softedge="0"/>
+    <autorotate startloaded="0" useanimation="0" delay="5.00" returntohorizon="3.000" speed="0.400" enabled="1" noderandom="1" nodedelay="0.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control lockedmouse="0" contextprojections="0" dblclickfullscreen="0" hideabout="1" rubberband="0" invertwheel="0" contextfullscreen="0" lockedwheel="0" simulatemass="1" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1"/>
+  </panorama>
+</tour>
